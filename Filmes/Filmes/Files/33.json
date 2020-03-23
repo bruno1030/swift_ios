@@ -1,0 +1,14 @@
+[{
+	"name": "Pulp Fiction: Tempo de Violência",
+	"year": "1994",
+	"rating": 8.9,
+    "sinopsis": "Os caminhos de vários criminosos se cruzam nestas três histórias de Quentin Tarantino. Um pistoleiro se apaixona pela mulher de seu chefe, um boxeador não se sai bem em uma luta e um casal tenta executar um plano de roubo que foge do controle.",
+    "image": "pulpfiction"
+},{
+	"name": "Django Livre",
+	"year": "2012",
+	"rating": 8.4,
+    "sinopsis": "No sul dos Estados Unidos, anos antes da Guerra Civil, um ex-escravo Django faz uma aliança inesperada com o caçador de recompensas Schultz para caçar os criminosos mais procurados do país e resgatar sua esposa de um fazendeiro que força seus escravos a participarem de competições mortais.",
+    "image": "django"
+}
+]

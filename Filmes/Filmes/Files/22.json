@@ -1,0 +1,14 @@
+[{
+	"name": "Tubarão",
+	"year": "1975",
+	"rating": 8.0,
+    "sinopsis": "Uma jovem é morta por um tubarão enquanto nadava perto da cidade turística de Amity Island, na Nova Inglaterra. O chefe de polícia, Martin Brody quer fechar as praias, mas o prefeito Larry Vaughn não permite, com medo de que o faturamento com a receita dos turistas deixe a cidade sem recursos. O cientista Matt Hooper e o pescador Quint se oferecem para ajudar Brody a capturar e matar a fera, e assim o trio se envolve em uma batalha épica entre homem e natureza.",
+    "image": "tubarao"
+},{
+	"name": "E.T. - O Extraterrestre",
+	"year": "1982",
+	"rating": 7.9,
+    "sinopsis": "O garoto Elliott faz amizade com um pequeno alienígena inofensivo que está bem longe do seu planeta. Ele decide manter a adorável criatura em segredo e em casa após apresentá-la aos irmãos.",
+    "image": "et"
+}
+]

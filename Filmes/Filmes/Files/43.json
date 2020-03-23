@@ -1,0 +1,14 @@
+[{
+	"name": "Guerra nas Estrelas",
+	"year": "1977",
+	"rating": 8.6,
+    "sinopsis": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e o capitão Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.",
+    "image": "starwars"
+},{
+	"name": "THX 1138",
+	"year": "1971",
+	"rating": 6.9,
+    "sinopsis": "No futuro, a humanidade vive em grandes cidades subterrâneas e o livre arbítrio é ilegal por meio de medicação obrigatória que controla a emoção humana. Mas quando THX 1138 e LUH 3417 param de tomarem seus remédios, eles acordam para a realidade sombria de sua própria existência e se apaixonam um pelo outro no processo. Porém, o amor também é ilegal, e o ato de fazer amor faz dos dois bandidos em fuga, de um exército de policiais robóticos.",
+    "image": "thx1138"
+}
+]

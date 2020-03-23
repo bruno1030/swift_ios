@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Steven Spielberg",
+		"fullName": "Steven Spielberg",
+		"birthdateYear": "1946",
+		"id": 22
+	},
+	{
+		"name": "George Lucas",
+		"fullName": "George Walton Lucas Jr",
+		"birthdateYear": "1944",
+		"id": 43
+	},
+	{
+		"name": "Quentin Tarantino",
+		"fullName": "Quentin Jerome Tarantino",
+		"birthdateYear": "1963",
+		"id": 33
+	},
+	{
+		"name": "Christopher Nolan",
+		"fullName": "Christopher Edward Nolan",
+		"birthdateYear": "1970",
+		"id": 12
+	}
+]
